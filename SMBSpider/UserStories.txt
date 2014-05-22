@@ -1,0 +1,12 @@
+﻿Backlog:
+1 - Als Anwender will ich ein Limit für kopierte Dateien setzen.
+1 - Als Anwender will ich ein Limit auf rekursionen setzen.
+
+Done:
+3 - Als Anwender will ich einzelne IPs scannen.
+3 - Als Anwender will ich IP ranges scannen.
+2 - Als Anwender will ich gefundene Verzeichnisse listen.
+2 - Als Anwender will ich gefundene Verzeichnisse kopieren.
+1 - Als Anwender will ich ein Filter auf Verzeichnisse setzen.
+1 - Als Anwender will ich Filter auf Dateiendungen setzen.
+2 - Als Entwickler will ich die Verbosität der Logdaten hochsetzen.

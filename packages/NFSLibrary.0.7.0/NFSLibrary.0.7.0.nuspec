@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NFSLibrary</id>
+    <version>0.7.0</version>
+    <authors>Mirko Gatto</authors>
+    <owners>Mirko Gatto</owners>
+    <licenseUrl>http://code.google.com/p/nekodrive</licenseUrl>
+    <projectUrl>http://code.google.com/p/nekodrive</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>NFS V2, V3 Client Library</description>
+    <releaseNotes>Latest release of the NFS Client Library</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+  </metadata>
+</package>
