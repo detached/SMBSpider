@@ -73,7 +73,7 @@ namespace SMBSpiderTest
         public void ScanTest()
         {
             IHandleResult resultHandler = new MockUpResultHandler();
-            IPAddress[] addresses = new IPAddress[]{ IPAddress.Parse("141.52.34.16")};
+            IPAddress[] addresses = new IPAddress[]{ IPAddress.Parse("127.0.0.1")};
             SmbScanner target = new SmbScanner(resultHandler, addresses);
             target.Scan();
             string[] results = ((MockUpResultHandler)resultHandler).GetResults();
